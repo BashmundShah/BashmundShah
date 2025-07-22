@@ -1,11 +1,1 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=BashmundShah&show_icons=true&theme=catppuccin_mocha"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=BashmundShah&show_icons=true&theme=catppuccin_latte"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=BashmundShah&show_icons=true&theme=catppuccin_latte" alt="Bashmunds's GitHub stats" />
-</picture>
+[![Bashmunds's GitHub stats](https://github-readme-stats.vercel.app/api?username=BashmundShah&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
