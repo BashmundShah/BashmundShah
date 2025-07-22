@@ -1,1 +1,2 @@
-[![Bashmunds's GitHub stats](https://github-readme-stats.vercel.app/api?username=BashmundShah)](https://github.com/anuraghazra/github-readme-stats)
+[![Bashmunds's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BashmundShah&show_icons=true&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Bashmunds's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BashmundShah&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
